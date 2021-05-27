@@ -43,5 +43,3 @@ variable "mfa_delete" {
   description = "Toggle MFA delete"
   default     = false
 }
-
-"test"
